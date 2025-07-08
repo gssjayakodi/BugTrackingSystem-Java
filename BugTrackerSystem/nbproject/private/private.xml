@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/EditBugServlet.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/UpdateBugServlet.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/dao/BugDAO.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/index.jsp</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/dashboard.jsp</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/model/Bug.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/ReportBugServlet.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/dao/DeveloperDAO.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/edit_bug.jsp</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/report_bug.jsp</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/ViewBugsServlet.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/web/viewBugs.jsp</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/model/Developer.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/DashboardServlet.java</file>
+            <file>file:/C:/NetBeans%20Projects/BugTrackerSystem/src/java/servlet/UpdateStatusServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
